@@ -40,6 +40,12 @@ googleBtnSignIn.addEventListener("click", () => {
   signInWithGoogle();
 });
 
+const googleBtnSignInAdmin = document.getElementById("googleAdmin");
+
+googleBtnSignInAdmin.addEventListener("click", () => {
+  signInWithGoogle();
+});
+
 // Logout
 
 const logout = document.getElementById("logout");
