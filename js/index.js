@@ -98,7 +98,7 @@ const dataLine = {
     labels: diasDeLaSemana,
     datasets: [
       {
-        label: "Cantidad Vendida",
+        label: "Cantidad Vendida hasta ese día",
         data: sumatoriaDeDias,
       },
     ],
