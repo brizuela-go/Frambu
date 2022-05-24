@@ -29,7 +29,7 @@ import {
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: process.env.API_KEY,
+  apiKey: "AIzaSyBduob0U9SkmtNqjNcraGXLHEKvcUbPwI0",
   authDomain: "mermelada-dashboard.firebaseapp.com",
   databaseURL: "https://mermelada-dashboard-default-rtdb.firebaseio.com",
   projectId: "mermelada-dashboard",
